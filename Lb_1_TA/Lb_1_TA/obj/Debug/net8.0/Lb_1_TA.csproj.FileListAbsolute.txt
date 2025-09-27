@@ -1,0 +1,29 @@
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.AssemblyInfoInputs.cache
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.AssemblyInfo.cs
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.csproj.CoreCompileInputs.cache
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\bin\Debug\net8.0\Lb_1_TA.exe
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\bin\Debug\net8.0\Lb_1_TA.deps.json
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\bin\Debug\net8.0\Lb_1_TA.runtimeconfig.json
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\bin\Debug\net8.0\Lb_1_TA.dll
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\bin\Debug\net8.0\Lb_1_TA.pdb
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.dll
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\refint\Lb_1_TA.dll
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.pdb
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.genruntimeconfig.cache
+D:\projects visual studio\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\ref\Lb_1_TA.dll
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\bin\Debug\net8.0\Lb_1_TA.exe
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\bin\Debug\net8.0\Lb_1_TA.deps.json
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\bin\Debug\net8.0\Lb_1_TA.runtimeconfig.json
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\bin\Debug\net8.0\Lb_1_TA.dll
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\bin\Debug\net8.0\Lb_1_TA.pdb
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.AssemblyInfoInputs.cache
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.AssemblyInfo.cs
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.csproj.CoreCompileInputs.cache
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.sourcelink.json
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.dll
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\refint\Lb_1_TA.dll
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.pdb
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\Lb_1_TA.genruntimeconfig.cache
+C:\Users\dkasi\source\repos\KasianenkoDen\LB_1_TA\Lb_1_TA\Lb_1_TA\obj\Debug\net8.0\ref\Lb_1_TA.dll
