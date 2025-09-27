@@ -48,17 +48,17 @@
             //Перевірка на співпадіння точок
             if (One[0] == Two[0] && One[1] == Two[1] || One[0] == Three[0] && One[1] == Three[1] || One[0] == Four[0] && One[1] == Four[1]) 
             {
-                Console.WriteLine("Error");
+                Console.WriteLine("Точки спiвпадають ПОМИЛКА");
                 return;
             }
             if (Two[0] == One[0] && Two[1] == One[1] || Two[0] == Three[0] && Two[1] == Three[1] || Two[0] == Four[0] && Two[1] == Four[1])
             {
-                Console.WriteLine("Error");
+                Console.WriteLine("Точки спiвпадають ПОМИЛКА");
                 return;
             }
             if (Three[0] == One[0] && Three[1] == One[1] || Three[0] == Two[0] && Three[1] == Two[1] || Three[0] == Four[0] && Three[1] == Four[1])
             {
-                Console.WriteLine("Error");
+                Console.WriteLine("Точки спiвпадають ПОМИЛКА");
                 return;
             }
             double OneTwo, TwoThree, ThreeFour, FourOne, Perumetr; // проміжні данні для зберігання обчислень
